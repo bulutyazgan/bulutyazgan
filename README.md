@@ -1,7 +1,13 @@
 ## b.
 
-I enjoy 2D game development. Currently working on machine learning and artificial intelligence.
-Languages: Mostly python. Know java tho
+I enjoy `2D game development` and `cybersecurity (malware development and networking)`. Currently working on `machine learning` and `artificial intelligence`.
+
+```python
+class Me:
+  def __init__(self):
+    self.languages = ['python', 'Java']
+    self.libraries = ['pygame', 'socket', 'numpy', 'tensorflow', 'pytorch']
+```
 
 <!--
 **siryazgan/siryazgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
