@@ -1,4 +1,7 @@
-## Hi there 👋
+## b.
+
+I enjoy 2D game development. Currently working on machine learning and artificial intelligence.
+Languages: Mostly python. Know java tho
 
 <!--
 **siryazgan/siryazgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
