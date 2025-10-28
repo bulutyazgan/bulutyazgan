@@ -5,7 +5,7 @@ I enjoy `2D game development` and `cybersecurity (malware development and networ
 ```python
 class Me:
   def __init__(self):
-    self.languages = ['python', 'Java']
+    self.languages = ['python', 'Java', 'C/C++', 'HTML/CSS', 'JavaScript', 'SQL']
     self.libraries = ['pygame', 'socket', 'numpy', 'tensorflow', 'pytorch']
 ```
 
