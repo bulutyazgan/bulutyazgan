@@ -2,11 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/bulut-yazgan)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:bulutyazganplus@gmail.com)
-[![PermitPilot](https://img.shields.io/badge/PermitPilot-Live-green?style=flat&logo=rocket)](https://app.permitpilot.tech)
 
-Full-stack engineer studying Computer Science at **University College London**. I build and ship production software — from AI-powered SaaS platforms to hackathon-winning projects.
-
-Currently building **[PermitPilot](https://app.permitpilot.tech)** — a SaaS platform that automates UK permit applications using AI-powered form filling and semantic search.
+Full-stack engineer studying Computer Science at **University College London**. I build and ship production software — from AI-powered SaaS platforms to hackathon-winning projects. 2x hackathon winner.
 
 ## 🛠️ Tech Stack
 
@@ -46,5 +43,4 @@ Git/GitHub • Docker • Linux/Unix • VS Code
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/bulut-yazgan)
-- 🚀 [PermitPilot](https://app.permitpilot.tech)
 - 📧 [Email](mailto:bulutyazganplus@gmail.com)
